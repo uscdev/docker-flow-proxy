@@ -1,6 +1,8 @@
 # Docker Flow Proxy
 
-This is a fork of docker-flow-proxy that requires all connections be TLS 1.2
+This is a fork of docker-flow-proxy that requires all connections be TLS 1.2+
+
+This fork is auto-built in docker hub at uscdev/docker-flow-proxy
 
 [![GitHub release](https://img.shields.io/github/release/vfarcic/docker-flow-proxy.svg)]()
 [![license](https://img.shields.io/github/license/vfarcic/docker-flow-proxy.svg)]()
